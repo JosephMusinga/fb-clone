@@ -2,6 +2,7 @@
     padding: 15px 20px;
     display: flex;
     justify-content: space-between;
+    width: 100%;
 
     position: sticky;
     background-color: white;

@@ -12,7 +12,7 @@
 }
 .login > button:hover{
     background-color: #eff2f5;
-    color: #2e81f4;
+    color: darkgray;
 }
 .login > div > img {
     object-fit: contain;
